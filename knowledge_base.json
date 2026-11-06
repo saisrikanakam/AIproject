@@ -1,0 +1,294 @@
+
+{
+  "topics": [
+    {
+      "id": "photosynthesis",
+      "title": "Photosynthesis",
+      "subject": "Biology",
+      "keywords": ["photosynthesis", "food in plants", "chlorophyll"],
+      "answer": "Photosynthesis is the process by which green plants prepare food using sunlight, carbon dioxide and water.",
+      "notes": "## Photosynthesis — Detailed Revision Notes\n\n### Definition\nPhotosynthesis is the process by which green plants prepare their food using sunlight, carbon dioxide and water in the presence of chlorophyll. Oxygen is released as a by-product.\n\n### Requirements\n1. Sunlight provides energy.\n2. Chlorophyll absorbs light energy.\n3. Carbon dioxide enters through stomata.\n4. Water is absorbed by roots and transported to leaves.\n\n### Process\nPlants use light energy to convert carbon dioxide and water into glucose. Some glucose is used for energy and growth, while excess glucose may be stored as starch. Oxygen is released into the atmosphere.\n\n### Word equation\nCarbon dioxide + Water —(sunlight and chlorophyll)→ Glucose + Oxygen.\n\n### Importance\n- Produces food for plants and supports food chains.\n- Releases oxygen needed by many living organisms.\n- Removes carbon dioxide from the atmosphere.\n- Converts light energy into chemical energy.\n\n### Factors affecting photosynthesis\nLight intensity, carbon dioxide concentration, temperature, water availability and chlorophyll content affect the rate of photosynthesis.\n\n### Exam points\nThe leaf is the main site of photosynthesis. Stomata allow gas exchange, and chlorophyll absorbs sunlight.",
+      "resources": ["Draw and label a leaf.", "Write the photosynthesis equation.", "Explain the importance of chlorophyll."],
+      "quiz": [
+        {
+          "question": "Which pigment absorbs light for photosynthesis?",
+          "options": ["Haemoglobin", "Chlorophyll", "Melanin", "Keratin"],
+          "answer": 1,
+          "explanation": "Chlorophyll absorbs light energy."
+        }
+      ]
+    },
+    {
+      "id": "transpiration",
+      "title": "Transpiration",
+      "subject": "Biology",
+      "keywords": ["transpiration", "water vapour", "water loss"],
+      "answer": "Transpiration is the loss of water as water vapour from the aerial parts of a plant, mainly through stomata.",
+      "notes": "## Transpiration — Detailed Revision Notes\n\n### Definition\nTranspiration is the loss of water in the form of water vapour from the aerial parts of a plant, especially the leaves.\n\n### Process\nRoots absorb water from the soil. Water travels through xylem to the leaves, evaporates from leaf cells and diffuses out through stomata.\n\n### Importance\n1. Helps pull water and dissolved minerals upward through the plant.\n2. Cools the plant by evaporation.\n3. Supports the movement of water from roots to leaves.\n\n### Factors affecting transpiration\n- Higher temperature usually increases water loss.\n- Wind often increases transpiration by removing moist air around leaves.\n- High humidity usually decreases transpiration.\n- Light often encourages stomata to open.\n- Water shortage may cause stomata to close.\n\n### Stomata\nStomata are tiny pores on leaves. Guard cells control their opening and closing. Closing stomata reduces water loss but also limits carbon dioxide entry.\n\n### Exam points\nTranspiration is useful for water movement and cooling, but excessive water loss may cause wilting.",
+      "resources": ["Draw a stoma.", "Explain two benefits of transpiration."],
+      "quiz": [
+        {
+          "question": "Through which structures does most transpiration occur?",
+          "options": ["Root hairs", "Stomata", "Petals", "Seeds"],
+          "answer": 1,
+          "explanation": "Most water vapour escapes through stomata."
+        }
+      ]
+    },
+    {
+      "id": "stomata",
+      "title": "Stomata",
+      "subject": "Biology",
+      "keywords": ["stomata", "guard cells", "leaf pores"],
+      "answer": "Stomata are tiny pores that allow gas exchange and regulate water loss in plants.",
+      "notes": "## Stomata — Detailed Revision Notes\n\n### Structure\nStomata are tiny openings in the epidermis of leaves. Each pore is surrounded by two guard cells that control its opening and closing.\n\n### Functions\n1. Carbon dioxide enters through stomata for photosynthesis.\n2. Oxygen can diffuse out of the leaf.\n3. Water vapour escapes during transpiration.\n\n### Opening and closing\nWhen guard cells take up water and become turgid, the pore usually opens. When they lose water and become flaccid, the pore closes.\n\n### Importance\nStomata help plants balance gas exchange with water conservation. Open stomata allow carbon dioxide to enter but can also increase water loss.\n\n### Exam points\nRemember that guard cells control the stomatal pore and stomata are important for both photosynthesis and transpiration.",
+      "resources": ["Draw and label guard cells.", "Explain how stomata help gas exchange."],
+      "quiz": [
+        {
+          "question": "Which cells control the opening of stomata?",
+          "options": ["Guard cells", "Red blood cells", "Root cap cells", "Muscle cells"],
+          "answer": 0,
+          "explanation": "Guard cells control the opening and closing of stomata."
+        }
+      ]
+    },
+    {
+      "id": "respiration",
+      "title": "Respiration",
+      "subject": "Biology",
+      "keywords": ["respiration", "cellular respiration", "energy"],
+      "answer": "Respiration is the process by which cells break down food to release usable energy.",
+      "notes": "## Respiration — Detailed Revision Notes\n\n### Definition\nRespiration is a chemical process in living cells that releases energy from food. The energy supports growth, movement, repair and other life processes.\n\n### Aerobic respiration\nAerobic respiration uses oxygen and releases a relatively large amount of energy.\n\nWord equation: Glucose + Oxygen → Carbon dioxide + Water + Energy.\n\n### Anaerobic respiration\nAnaerobic respiration occurs without oxygen and generally releases less energy. Yeast can produce alcohol and carbon dioxide. Human muscles may produce lactic acid during intense activity when oxygen supply is insufficient for demand.\n\n### Importance\n- Supplies energy for cell activities.\n- Supports growth and repair.\n- Helps maintain essential body functions.\n- Occurs in both plants and animals.\n\n### Respiration versus breathing\nBreathing is the movement of air into and out of the respiratory system. Respiration is the chemical release of energy inside cells.\n\n### Exam points\nPlants also respire, both during the day and at night. Do not confuse respiration with photosynthesis.",
+      "resources": ["Write the aerobic respiration equation.", "Compare aerobic and anaerobic respiration."],
+      "quiz": [
+        {
+          "question": "What is the main purpose of cellular respiration?",
+          "options": ["Release usable energy", "Absorb sunlight", "Make soil", "Produce chlorophyll"],
+          "answer": 0,
+          "explanation": "Respiration releases energy from food."
+        }
+      ]
+    },
+    {
+      "id": "nutrition-plants",
+      "title": "Nutrition in Plants",
+      "subject": "Biology",
+      "keywords": ["nutrition in plants", "autotroph", "minerals"],
+      "answer": "Green plants are autotrophs because they manufacture food through photosynthesis.",
+      "notes": "## Nutrition in Plants — Detailed Revision Notes\n\n### Types of nutrition\nNutrition is the process of obtaining and using food. Green plants are mainly autotrophs because they manufacture their own food. Heterotrophs depend on other organisms for food.\n\n### Materials required by plants\n- Water is absorbed by roots.\n- Mineral ions are absorbed from the soil.\n- Carbon dioxide enters leaves through stomata.\n- Chlorophyll captures light energy.\n\n### Mineral nutrients\nNitrogen is required for making proteins. Magnesium is part of chlorophyll. Phosphorus is important for energy-transfer molecules and other cell components. Mineral deficiencies may cause poor growth and yellowing leaves.\n\n### Special forms of nutrition\nInsectivorous plants trap insects to obtain certain nutrients, especially nitrogen, while still photosynthesising. Parasitic plants obtain nutrients from a host plant.\n\n### Exam points\nPlants need water, carbon dioxide, sunlight, chlorophyll and minerals for healthy growth and food production.",
+      "resources": ["Define autotrophic nutrition.", "List the requirements for photosynthesis."],
+      "quiz": [
+        {
+          "question": "Green plants are mainly:",
+          "options": ["Autotrophs", "Parasites", "Decomposers", "Carnivores"],
+          "answer": 0,
+          "explanation": "Green plants make their own food."
+        }
+      ]
+    },
+    {
+      "id": "human-digestion",
+      "title": "Human Digestive System",
+      "subject": "Biology",
+      "keywords": ["digestion", "digestive system", "enzymes", "absorption"],
+      "answer": "The digestive system breaks complex food into simpler soluble substances that can be absorbed by the body.",
+      "notes": "## Human Digestive System — Detailed Revision Notes\n\n### Definition\nDigestion breaks large, complex food molecules into smaller, soluble molecules that can be absorbed and used by the body.\n\n### Major organs\n- **Mouth:** teeth chew food; saliva contains amylase, which begins starch digestion.\n- **Oesophagus:** moves food to the stomach by peristalsis.\n- **Stomach:** churns food; acid creates a suitable environment for pepsin, which digests proteins.\n- **Liver:** produces bile, which helps emulsify fats.\n- **Pancreas:** releases digestive enzymes into the small intestine.\n- **Small intestine:** completes much digestion and absorbs nutrients through villi.\n- **Large intestine:** absorbs much of the remaining water and forms faeces.\n- **Rectum and anus:** store and remove faeces.\n\n### Important terms\nDigestion breaks food down. Absorption moves digested nutrients into blood or lymph. Assimilation is the use of absorbed nutrients by cells.\n\n### Healthy digestion\nEat a balanced diet containing fibre, drink enough water, exercise regularly and maintain food hygiene.\n\n### Exam points\nThe small intestine is the main site of nutrient absorption because its villi provide a large surface area.",
+      "resources": ["Draw the digestive system.", "Differentiate digestion, absorption and assimilation."],
+      "quiz": [
+        {
+          "question": "Where does most nutrient absorption occur?",
+          "options": ["Mouth", "Small intestine", "Oesophagus", "Rectum"],
+          "answer": 1,
+          "explanation": "Villi in the small intestine provide a large surface area."
+        }
+      ]
+    },
+    {
+      "id": "gravity",
+      "title": "Gravity",
+      "subject": "Physics",
+      "keywords": ["gravity", "gravitational force", "weight", "free fall"],
+      "answer": "Gravity is the attractive force between objects with mass. Earth's gravity pulls objects towards its centre.",
+      "notes": "## Gravity — Detailed Revision Notes\n\n### Definition\nGravity is the force of attraction between objects that have mass. Earth's gravity pulls objects towards its centre and helps keep the Moon and satellites in orbit.\n\n### Mass and weight\nMass is the amount of matter in an object and is measured in kilograms (kg). Weight is the gravitational force on an object and is measured in newtons (N).\n\nFormula: W = mg, where W is weight, m is mass and g is gravitational acceleration. Near Earth's surface, g is approximately 9.8 m/s², often rounded to 10 m/s² in school problems.\n\n### Example\nFor a 3 kg object, using g = 10 m/s²: W = 3 × 10 = 30 N.\n\n### Free fall\nAn object is in free fall when gravity is the only significant force acting on it. Ignoring air resistance, objects fall with the same gravitational acceleration near Earth.\n\n### Importance\nGravity keeps us on the ground, holds the atmosphere near Earth, causes falling objects and helps maintain planetary orbits.\n\n### Exam points\nMass is measured in kg; weight is measured in N. Weight can change with gravitational field strength, while mass remains essentially constant.",
+      "resources": ["Solve W = mg problems.", "Compare mass and weight.", "Explain free fall."],
+      "quiz": [
+        {
+          "question": "What is the SI unit of weight?",
+          "options": ["Kilogram", "Newton", "Metre", "Joule"],
+          "answer": 1,
+          "explanation": "Weight is a force measured in newtons."
+        }
+      ]
+    },
+    {
+      "id": "force-motion",
+      "title": "Force and Motion",
+      "subject": "Physics",
+      "keywords": ["force", "motion", "Newton laws", "acceleration", "inertia"],
+      "answer": "A force is a push or pull that can change an object's motion, direction or shape.",
+      "notes": "## Force and Motion — Detailed Revision Notes\n\n### Force\nA force is a push or pull. It can start or stop motion, change speed or direction, or change shape. Its SI unit is the newton (N).\n\n### Balanced and unbalanced forces\nBalanced forces have zero resultant force and do not change an object's velocity. Unbalanced forces can cause acceleration.\n\n### Newton's laws\n1. **First law:** an object remains at rest or moves at constant velocity unless acted on by a resultant external force. This property is called inertia.\n2. **Second law:** resultant force equals mass multiplied by acceleration: F = ma.\n3. **Third law:** every action has an equal and opposite reaction. These forces act on different objects.\n\n### Speed and acceleration\nAverage speed = total distance ÷ total time. Acceleration is the rate of change of velocity.\n\n### Example\nIf a net force of 12 N acts on a 3 kg object, a = F/m = 12/3 = 4 m/s².\n\n### Friction\nFriction opposes relative motion between surfaces. It helps us walk and grip objects but can cause wear and heating. Lubricants can reduce friction.\n\n### Exam points\nIdentify the resultant force before using F = ma. Action and reaction forces act on different bodies.",
+      "resources": ["Practise F = ma calculations.", "Give examples of Newton's laws."],
+      "quiz": [
+        {
+          "question": "Which equation represents Newton's second law?",
+          "options": ["F = ma", "W = m/g", "v = m + a", "F = d/t"],
+          "answer": 0,
+          "explanation": "Resultant force equals mass multiplied by acceleration."
+        }
+      ]
+    },
+    {
+      "id": "light-reflection",
+      "title": "Light and Reflection",
+      "subject": "Physics",
+      "keywords": ["light", "reflection", "mirror", "angle of reflection"],
+      "answer": "Reflection is the bouncing back of light from a surface. The angle of incidence equals the angle of reflection.",
+      "notes": "## Light and Reflection — Detailed Revision Notes\n\n### Reflection\nReflection occurs when light strikes a surface and returns to the original medium. Smooth surfaces can produce regular reflection, while rough surfaces scatter light.\n\n### Laws of reflection\n1. The angle of incidence equals the angle of reflection.\n2. The incident ray, reflected ray and normal lie in the same plane.\n\nAngles are measured from the normal, an imaginary line perpendicular to the reflecting surface.\n\n### Plane mirrors\nA plane mirror forms a virtual, erect image of the same size as the object. The image is laterally inverted and appears as far behind the mirror as the object is in front.\n\n### Spherical mirrors\n- **Concave mirror:** curves inward and can form real or virtual images depending on object position.\n- **Convex mirror:** curves outward and forms a virtual, erect and diminished image with a wide field of view.\n\n### Uses\nConvex mirrors are used as vehicle rear-view mirrors. Concave mirrors are used in some shaving mirrors and reflectors.\n\n### Exam points\nDraw the normal at the point of incidence and measure both angles from it.",
+      "resources": ["Draw a reflection diagram.", "List plane mirror image properties."],
+      "quiz": [
+        {
+          "question": "The angle of incidence is measured from the:",
+          "options": ["Mirror surface", "Normal", "Object", "Wall"],
+          "answer": 1,
+          "explanation": "Angles are measured from the normal."
+        }
+      ]
+    },
+    {
+      "id": "electricity",
+      "title": "Electricity",
+      "subject": "Physics",
+      "keywords": ["electricity", "current", "voltage", "resistance", "Ohm's law"],
+      "answer": "Electric current is the rate of flow of electric charge. Ohm's law is V = IR under constant physical conditions.",
+      "notes": "## Electricity — Detailed Revision Notes\n\n### Electric current\nElectric current is the rate of flow of charge. Its SI unit is the ampere (A). Current can be calculated using I = Q/t.\n\n### Potential difference\nPotential difference, or voltage, is energy transferred per unit charge. It is measured in volts (V).\n\n### Resistance\nResistance describes how strongly a component opposes current. Its unit is the ohm (Ω). It depends on material, length, cross-sectional area and temperature.\n\n### Ohm's law\nAt constant temperature and other physical conditions, V = IR, where V is voltage, I is current and R is resistance.\n\n### Example\nIf V = 12 V and R = 4 Ω, then I = V/R = 12/4 = 3 A.\n\n### Series and parallel circuits\nIn a series circuit, the same current passes through each component and resistances add. In a parallel circuit, each branch has the same voltage and current divides among branches.\n\n### Electrical safety\nNever touch bare wires, avoid overloaded sockets and use suitable fuses or circuit breakers. Keep electrical equipment away from water.",
+      "resources": ["Practise V = IR.", "Draw series and parallel circuits.", "Explain the purpose of a fuse."],
+      "quiz": [
+        {
+          "question": "What is the SI unit of current?",
+          "options": ["Volt", "Ampere", "Ohm", "Watt"],
+          "answer": 1,
+          "explanation": "Current is measured in amperes."
+        }
+      ]
+    },
+    {
+      "id": "sound",
+      "title": "Sound",
+      "subject": "Physics",
+      "keywords": ["sound", "frequency", "amplitude", "vibration", "echo"],
+      "answer": "Sound is produced by vibrating objects and travels through a material medium as a mechanical wave.",
+      "notes": "## Sound — Detailed Revision Notes\n\n### Production and propagation\nSound is produced by vibrating objects. It travels by transferring energy through particles in a medium, such as air, water or solids. Sound cannot travel through a vacuum.\n\n### Wave properties\n- **Amplitude:** related to loudness.\n- **Frequency:** number of vibrations per second, measured in hertz (Hz); it determines pitch.\n- **Time period:** time for one vibration, T = 1/f.\n- **Wavelength:** distance between corresponding points on successive waves.\n- **Wave speed:** v = fλ.\n\n### Reflection and echo\nAn echo is a distinct reflected sound. Echoes and sonar can help estimate distances. Soft, porous materials absorb sound and can reduce echoes.\n\n### Hearing range\nTypical human hearing is approximately 20 Hz to 20,000 Hz, varying by individual and age. Below this range is infrasonic; above it is ultrasonic.\n\n### Applications\nUltrasound is used in medical imaging and industrial testing. Sonar helps detect underwater objects.\n\n### Exam points\nLoudness is related to amplitude; pitch is related to frequency. Sound needs a medium to travel.",
+      "resources": ["Differentiate amplitude and frequency.", "Explain why sound cannot travel in a vacuum."],
+      "quiz": [
+        {
+          "question": "Sound cannot travel through:",
+          "options": ["Air", "Water", "Steel", "A vacuum"],
+          "answer": 3,
+          "explanation": "Sound requires a material medium."
+        }
+      ]
+    },
+    {
+      "id": "algebra",
+      "title": "Algebra",
+      "subject": "Mathematics",
+      "keywords": ["algebra", "variable", "equation", "expression"],
+      "answer": "Algebra uses letters and symbols to represent numbers and relationships.",
+      "notes": "## Algebra — Detailed Revision Notes\n\n### Expressions and equations\nAn expression combines numbers, variables and operations, such as 3x + 5. An equation states that two expressions are equal, such as 3x + 5 = 17.\n\n### Like terms\nCombine like terms only. For example, 3x + 2x − 4 = 5x − 4. Terms involving different variables or powers generally cannot be combined.\n\n### Solving equations\nPerform the same operation on both sides to keep the equation balanced.\n\nExample: 3x + 5 = 17 → 3x = 12 → x = 4.\n\n### Useful identities\n- (a + b)² = a² + 2ab + b²\n- (a − b)² = a² − 2ab + b²\n- a² − b² = (a − b)(a + b)\n\n### Factorisation\nFactorisation expresses a polynomial as a product. For example, x² − 9 = (x − 3)(x + 3).\n\n### Word problems\nDefine the unknown, form an equation, solve it and check the answer in the original situation.\n\n### Exam points\nAvoid combining unlike terms. Check your answer by substitution.",
+      "resources": ["Solve linear equations.", "Practise algebraic identities.", "Create equations from word problems."],
+      "quiz": [
+        {
+          "question": "Simplify 3x + 2x.",
+          "options": ["5", "5x", "6x", "x"],
+          "answer": 1,
+          "explanation": "Like terms add to 5x."
+        }
+      ]
+    },
+    {
+      "id": "quadratic-equations",
+      "title": "Quadratic Equations",
+      "subject": "Mathematics",
+      "keywords": ["quadratic equation", "roots", "factorisation", "discriminant"],
+      "answer": "A quadratic equation is an equation of degree two, usually written ax² + bx + c = 0, where a is not zero.",
+      "notes": "## Quadratic Equations — Detailed Revision Notes\n\n### Standard form\nA quadratic equation is ax² + bx + c = 0, where a ≠ 0. Its solutions are called roots.\n\n### Methods\n1. Factorisation.\n2. Completing the square.\n3. Quadratic formula: x = (−b ± √(b² − 4ac))/(2a).\n\n### Example\nx² − 5x + 6 = 0 → (x − 2)(x − 3) = 0. Therefore x = 2 or x = 3.\n\n### Discriminant\nD = b² − 4ac.\n- D > 0: two distinct real roots.\n- D = 0: equal real roots.\n- D < 0: no real roots.\n\n### Relations between roots and coefficients\nFor roots α and β: α + β = −b/a and αβ = c/a.\n\n### Exam tips\nWrite the equation in standard form, identify a, b and c carefully, and include negative signs when substituting into the formula.",
+      "resources": ["Solve quadratics by factorisation.", "Classify roots using the discriminant."],
+      "quiz": [
+        {
+          "question": "What is the degree of a quadratic equation?",
+          "options": ["1", "2", "3", "0"],
+          "answer": 1,
+          "explanation": "The highest power is two."
+        }
+      ]
+    },
+    {
+      "id": "linear-equations-two-variables",
+      "title": "Pair of Linear Equations",
+      "subject": "Mathematics",
+      "keywords": ["pair of linear equations", "two variables", "elimination", "substitution"],
+      "answer": "A pair of linear equations represents two straight lines, and a common solution is their intersection point.",
+      "notes": "## Pair of Linear Equations — Detailed Revision Notes\n\n### Standard form\nA pair of equations can be written as a₁x + b₁y + c₁ = 0 and a₂x + b₂y + c₂ = 0.\n\n### Graphical interpretation\n- Intersecting lines have one solution.\n- Parallel distinct lines have no solution.\n- Coincident lines have infinitely many solutions.\n\n### Methods\n- **Substitution:** solve one equation for a variable and substitute it into the other.\n- **Elimination:** add or subtract equations to eliminate a variable.\n- **Cross-multiplication:** use the standard formula when equations are in the suitable form.\n\n### Example\nx + y = 7 and x − y = 1. Adding gives 2x = 8, so x = 4; substituting gives y = 3.\n\n### Exam tips\nTranslate word problems into two equations and check the pair of values in both equations.",
+      "resources": ["Solve equations by elimination.", "Draw intersecting and parallel lines."],
+      "quiz": [
+        {
+          "question": "Two distinct parallel lines have:",
+          "options": ["One solution", "No solution", "Infinite solutions", "Two solutions"],
+          "answer": 1,
+          "explanation": "Distinct parallel lines do not intersect."
+        }
+      ]
+    },
+    {
+      "id": "arithmetic-progressions",
+      "title": "Arithmetic Progressions",
+      "subject": "Mathematics",
+      "keywords": ["arithmetic progression", "AP", "common difference", "nth term"],
+      "answer": "An arithmetic progression is a sequence in which the difference between consecutive terms is constant.",
+      "notes": "## Arithmetic Progressions — Detailed Revision Notes\n\n### Definition\nAn arithmetic progression (AP) is a sequence in which each term after the first is obtained by adding a fixed common difference d.\n\nExample: 3, 7, 11, 15, … has first term a = 3 and common difference d = 4.\n\n### nth term\naₙ = a + (n − 1)d.\n\nExample: the 10th term of 3, 7, 11, … is 3 + 9 × 4 = 39.\n\n### Sum of first n terms\nSₙ = n/2 [2a + (n − 1)d]. If the last term l is known, Sₙ = n/2 (a + l).\n\n### Finding d\nSubtract a term from the next term. The common difference may be positive, negative or zero.\n\n### Exam tips\nIdentify a, d and n before selecting a formula. Check whether the sequence increases or decreases regularly.",
+      "resources": ["Find the nth term.", "Calculate the sum of an AP."],
+      "quiz": [
+        {
+          "question": "Find the common difference of 5, 8, 11, 14, …",
+          "options": ["2", "3", "5", "6"],
+          "answer": 1,
+          "explanation": "Each term increases by three."
+        }
+      ]
+    },
+    {
+      "id": "statistics",
+      "title": "Statistics",
+      "subject": "Mathematics",
+      "keywords": ["statistics", "mean", "median", "mode", "frequency"],
+      "answer": "Statistics involves collecting, organising, analysing and interpreting data.",
+      "notes": "## Statistics — Detailed Revision Notes\n\n### Mean\nMean = sum of observations ÷ number of observations. For a frequency table, mean = Σfx/Σf.\n\n### Median\nThe median is the middle value after arranging data in order. For an even number of observations, it is the average of the two middle values.\n\n### Mode\nThe mode is the value that occurs most frequently.\n\n### Frequency tables\nFrequency records how often a value occurs. For grouped data, the class mark is the midpoint of a class interval. Cumulative frequency is the running total of frequencies.\n\n### Choosing a measure\nMean uses all values but can be affected by extreme values. Median is less affected by extreme values. Mode identifies the most common value.\n\n### Exam tips\nArrange data before finding the median. In frequency problems, multiply each value by its frequency before summing.",
+      "resources": ["Calculate mean, median and mode.", "Prepare a frequency table."],
+      "quiz": [
+        {
+          "question": "Which measure is the middle value of ordered data?",
+          "options": ["Mean", "Median", "Mode", "Range"],
+          "answer": 1,
+          "explanation": "The median is the central value in ordered data."
+        }
+      ]
+    },
+    {
+      "id": "probability",
+      "title": "Probability",
+      "subject": "Mathematics",
+      "keywords": ["probability", "outcomes", "event", "sample space"],
+      "answer": "Probability measures how likely an event is. For equally likely outcomes, probability equals favourable outcomes divided by total outcomes.",
+      "notes": "## Probability — Detailed Revision Notes\n\n### Meaning\nProbability measures the chance that an event occurs. It ranges from 0 (impossible) to 1 (certain).\n\n### Formula\nP(E) = Number of favourable outcomes / Total number of equally likely outcomes.\n\nExample: a fair six-sided die has three even outcomes (2, 4, 6), so P(even) = 3/6 = 1/2.\n\n### Sample space and event\nThe sample space contains all possible outcomes. An event is the outcome or group of outcomes being considered. A coin toss has sample space {H, T}.\n\n### Complement\nP(not E) = 1 − P(E).\n\n### Exam tips\nCount all possible outcomes carefully, identify favourable outcomes, simplify the fraction and check that the probability lies between zero and one.",
+      "resources": ["List the sample space for a coin and die.", "Solve simple probability problems."],
+      "quiz": [
+        {
+          "question": "What is the probability of getting a head on a fair coin toss?",
+          "options": ["0", "1/4", "1/2", "1"],
+          "answer": 2,
+          "explanation": "There are two equally likely outcomes, so the probability is 1/2."
+        }
+      ]
+    }
+  ]
+}
